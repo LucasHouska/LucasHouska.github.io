@@ -48,6 +48,7 @@ body {
 
 .image {
   position: relative;
+  text-align:center;
   width: 200px;
   height: 200px;
   overflow: hidden;

@@ -1,7 +1,6 @@
 * {
   box-sizing: border-box;
   font-family: arial;
-  overflow: visible;
 }
 
 body {
@@ -49,8 +48,8 @@ body {
 
 .image {
   position: relative;
-  margin-left:auto;
-  margin-right: auto;
+  margin-left: 100px;
+  margin-right: 100px;
   width: 200px;
   height: 200px;
   overflow: hidden;

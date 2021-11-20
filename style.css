@@ -50,8 +50,8 @@ body {
 
 .image {
   position: relative;
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   overflow: hidden
   border-radius: 50%;
 }
